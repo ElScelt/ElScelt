@@ -60,14 +60,14 @@ Hey! I'm **Edgar** *(he/him)*, a Full Stack Developer based in 🇪🇪 **Estoni
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElScelt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElScelt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ElScelt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Edgar's GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElScelt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ElScelt&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ElScelt&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 

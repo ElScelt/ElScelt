@@ -60,8 +60,8 @@ Hey! I'm **Edgar** *(he/him)*, a Full Stack Developer based in 🇪🇪 **Estoni
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ElScelt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Edgar's GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElScelt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-stats.as93.net/api?username=ElScelt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Edgar's GitHub Stats"/>
+<img width="49%" src="https://github-stats.as93.net/api/top-langs/?username=ElScelt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -83,11 +83,12 @@ Hey! I'm **Edgar** *(he/him)*, a Full Stack Developer based in 🇪🇪 **Estoni
 
 <div align="center">
 
-[![logitech-ghub-loading-fix](https://github-readme-stats.vercel.app/api/pin/?username=ElScelt&repo=logitech-ghub-loading-fix&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ElScelt/logitech-ghub-loading-fix)
-[![Windows-AutoLogin](https://github-readme-stats.vercel.app/api/pin/?username=ElScelt&repo=Windows-AutoLogin&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ElScelt/Windows-AutoLogin)
-
-[![Palgaturu-Analyys-Eestis](https://github-readme-stats.vercel.app/api/pin/?username=ElScelt&repo=Palgaturu-Analyys-Eestis&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ElScelt/Palgaturu-Analyys-Eestis)
-[![eventhub](https://github-readme-stats.vercel.app/api/pin/?username=ElScelt&repo=eventhub&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ElScelt/eventhub)
+| Project | Description | Tech |
+|---|---|---|
+| [🔧 logitech-ghub-loading-fix](https://github.com/ElScelt/logitech-ghub-loading-fix) | Fix for Logitech G Hub stuck on loading screen | ![Batchfile](https://img.shields.io/badge/Batchfile-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white) ⭐ 3 |
+| [🔐 Windows-AutoLogin](https://github.com/ElScelt/Windows-AutoLogin) | Auto-login Windows 10/11 without password prompts | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ⭐ 3 |
+| [📊 Palgaturu-Analyys-Eestis](https://github.com/ElScelt/Palgaturu-Analyys-Eestis) | Salary market analysis for Estonia | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ⭐ 1 |
+| [🎉 eventhub](https://github.com/ElScelt/eventhub) | Event management platform | ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) |
 
 </div>
 

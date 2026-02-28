@@ -46,7 +46,7 @@ Hey! I'm **Edgar** *(he/him)*, a Full Stack Developer based in 🇪🇪 **Estoni
 
 **Tools & DevOps**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logo Color=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -57,13 +57,6 @@ Hey! I'm **Edgar** *(he/him)*, a Full Stack Developer based in 🇪🇪 **Estoni
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-stats.as93.net/api?username=ElScelt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Edgar's GitHub Stats"/>
-<img width="49%" src="https://github-stats.as93.net/api/top-langs/?username=ElScelt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
-
-</div>
 
 <div align="center">
 

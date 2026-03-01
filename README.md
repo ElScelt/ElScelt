@@ -14,12 +14,12 @@ Hey! I'm **Edgar** *(he/him)*, a Full Stack Developer based in 🇪🇪 **Estoni
 
 - 🔭 Working on AI-powered production applications at **Novella AI**
 - 🌱 Deep-diving into **LLM integrations**, **agentic workflows**, and **cloud infra**
-- 🛠️ Love automating things that shouldn't be manual
+- 🛠 Love automating things that shouldn't be manual
 - ⚡ Fun fact: I have 680+ contributions in the past year and I'm not stopping
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
@@ -46,7 +46,7 @@ Hey! I'm **Edgar** *(he/him)*, a Full Stack Developer based in 🇪🇪 **Estoni
 
 **Tools & DevOps**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logo Color=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)

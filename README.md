@@ -2,7 +2,7 @@
 
 # Edgar
 
-**Full-stack developer building production web apps, automation, and practical AI-integrated tools.**
+**Full-stack developer building production web apps, internal tools, and practical automation.**
 
 [edgarr.ee](https://edgarr.ee) | [github.com/ElScelt](https://github.com/ElScelt)
 
@@ -12,7 +12,7 @@
 
 I work across the full product surface: frontends that feel clear, APIs that stay maintainable, and the deployment/workflow pieces that keep software usable after it ships. I am based in Estonia and currently building production applications at Novella AI.
 
-My default style is simple structure, typed interfaces, boring reliability, and enough polish that the product feels cared for.
+My default style is simple structure, typed interfaces, steady reliability, and enough polish that the product feels cared for.
 
 ## What I Build
 

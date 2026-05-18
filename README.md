@@ -1,36 +1,47 @@
+<div align="center">
+
 # Edgar
 
-Full-stack developer in Estonia, building product software with TypeScript, Python, Vue/Nuxt, Node/NestJS, FastAPI, PostgreSQL, and Docker.
+**Full-stack developer building production web apps, automation, and practical AI-integrated tools.**
 
-I care about simple interfaces, reliable systems, and code that stays readable after the first version ships. Most of my work sits around web applications, workflow automation, and practical AI integrations where they make a product clearer or faster to use.
+[edgarr.ee](https://edgarr.ee) | [github.com/ElScelt](https://github.com/ElScelt)
 
-Currently building production applications at Novella AI.
+</div>
 
-## Focus
+---
 
-- Full-stack web apps from UI to API and deployment
-- Internal tools and workflow automation
-- Data-heavy products with clear user-facing explanations
-- Maintainable code: typed interfaces, plain structure, and useful tests
+I work across the full product surface: frontends that feel clear, APIs that stay maintainable, and the deployment/workflow pieces that keep software usable after it ships. I am based in Estonia and currently building production applications at Novella AI.
 
-## Strongest Tools
+My default style is simple structure, typed interfaces, boring reliability, and enough polish that the product feels cared for.
 
-| Area | Tools |
-| --- | --- |
-| Frontend | TypeScript, Vue, Nuxt, Next.js, React, Tailwind CSS |
-| Backend | Node.js, NestJS, FastAPI, PostgreSQL, Prisma |
-| Automation | Python, PowerShell, GitHub Actions |
-| Operations | Docker, Linux, Windows, deployment workflows |
+## What I Build
+
+**Product applications**<br>
+Full-stack web apps with thoughtful UX, typed data flow, and production-minded architecture.
+
+**Automation and internal tools**<br>
+Small systems that remove manual work, connect existing workflows, and make teams faster.
+
+**Data and AI interfaces**<br>
+Clear user-facing tools around structured data, analysis, and AI-assisted explanations.
+
+## Core Stack
+
+`TypeScript` `Python` `Vue` `Nuxt` `React` `Next.js` `Node.js` `NestJS` `FastAPI` `PostgreSQL` `Prisma` `Docker` `PowerShell`
 
 ## Selected Work
 
-- [EventHub](https://github.com/ElScelt/eventhub) - event ticketing platform for the Estonian market, built with Nuxt 3, NestJS, PostgreSQL, Prisma, and Docker Compose.
-- [Palgaturu-Analyys-Eestis](https://github.com/ElScelt/Palgaturu-Analyys-Eestis) - salary market analysis app using Statistics Estonia data, TypeScript, Next.js, Recharts, and OpenAI-assisted explanations.
-- [physics-presentations](https://github.com/ElScelt/physics-presentations) - interactive browser-based physics lessons with real-time simulations.
-- [Windows-AutoLogin](https://github.com/ElScelt/Windows-AutoLogin) - PowerShell utility for configuring Windows 10/11 auto-login behavior, with clear notes on security tradeoffs.
-- [logitech-ghub-loading-fix](https://github.com/ElScelt/logitech-ghub-loading-fix) - small Batchfile fix for a common Logitech G Hub loading issue.
+**[EventHub](https://github.com/ElScelt/eventhub)**<br>
+Event ticketing platform for the Estonian market, built with Nuxt 3, NestJS, PostgreSQL, Prisma, and Docker Compose.
 
-## Links
+**[Palgaturu-Analyys-Eestis](https://github.com/ElScelt/Palgaturu-Analyys-Eestis)**<br>
+Salary market analysis app using Statistics Estonia data, TypeScript, Next.js, Recharts, and OpenAI-assisted explanations.
 
-- Website: [edgarr.ee](https://edgarr.ee)
-- GitHub: [ElScelt](https://github.com/ElScelt)
+**[physics-presentations](https://github.com/ElScelt/physics-presentations)**<br>
+Interactive browser-based physics lessons with real-time simulations.
+
+**[Windows-AutoLogin](https://github.com/ElScelt/Windows-AutoLogin)**<br>
+PowerShell utility for configuring Windows 10/11 auto-login behavior, with clear notes on security tradeoffs.
+
+**[logitech-ghub-loading-fix](https://github.com/ElScelt/logitech-ghub-loading-fix)**<br>
+Small Batchfile fix for a common Logitech G Hub loading issue.
